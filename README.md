@@ -1,109 +1,28 @@
-## Hi there 👋
-# 👨‍💻 Turning Intelligence into Interfaces & Models into Magic  
-**Data Analyst → Full Stack AI Engineer | Building with LLMs, GenAI & Scalable AI Systems**  
+<h1 align="center">Hi 👋, I'm Venu Gopal Reddy</h1>
+<h3 align="center">A passionate Full Stack Developer & Turning Intelligence into Interfaces & Models into Magic</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+AI+Engineer;ML+%7C+LLMs+%7C+GenAI+%7C+Dashboards;Python+%7C+LangChain+%7C+Streamlit+%7C+OpenAI+APIs)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venu0807&label=Profile%20views&color=0e75b6&style=flat" alt="venu0807" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venu0807" alt="venu0807" /></a> </p>
 
-## 🧪 About Me
-- 🧙‍♂️ Data whisperer turned Full Stack AI Engineer — I bring ideas to life with data, models, and code  
-- 🔬 I build systems that think, talk, and respond — bridging the gap between AI research and real-world use  
-- 🤖 Recent obsessions: LLM chaining, prompt engineering, multi-modal apps, and MLOps  
-- 🌏 Based in India | Open to global collaboration
+- 🔭 I’m currently working on [Movie Recommendation System](https://github.com/venu0807/Recommendation_System)
 
----
+- 👨‍💻 All of my projects are available at [https://portfolio-nu-opal-jkal0xp2gf.vercel.app/](https://portfolio-nu-opal-jkal0xp2gf.vercel.app/)
 
-## 🔧 Tech Stack
+- 📫 How to reach me **pvgreddy3@gmail.com**
 
-**Languages & Libraries:**  
-`Python` `SQL` `HTML` `JavaScript (basic)`  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/venu-gopal-reddy-palugulla-4948b8258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venu-gopal-reddy-palugulla-4948b8258/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pvgreddy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pvgreddy3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/venu08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/venu08/" height="30" width="40" /></a>
+</p>
 
-**ML & AI Tools:**  
-`Scikit-learn` `TensorFlow` `Hugging Face Transformers` `LangChain` `OpenAI APIs` `Gemini`  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-**Data & Visualization:**  
-`Pandas` `NumPy` `Power BI` `Tableau`  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venu0807&show_icons=true&locale=en&layout=compact" alt="venu0807" /></p>
 
-**Web & UI:**  
-`Streamlit` `Flask` `FastAPI`  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venu0807&show_icons=true&locale=en" alt="venu0807" /></p>
 
-**DevOps & Infra:**  
-`Git` `GitHub Actions` `Linux`  
-
----
-
-## 🚀 Projects That Define Me
-
-### ✨ Express Wash – AI-Powered Smart Laundry App  
-Multi-Interface App | LLM-Powered Assistant | MySQL Backend  
-🔗 [Online Version](https://github.com/AkshayBhujbal1995/ExpressWash_Online)  
-🔗 [Offline Version](https://github.com/AkshayBhujbal1995/ExpressWash_Offline)
-
----
-
-### 🤖 Generative AI & LLM Projects
-- 🔁 Multimodal Gemini App (Text + Image with Streamlit)
-- 💬 Text Generation with Gemini (Google GenAI)
-- 🖼️ Image to Text using Gemini AI
-- 🧠 EDA Powered by LLM (AI-assisted analytics)
-- 🔊 Text to Speech WebApp
-
----
-
-### 📈 Machine Learning & Statistics
-- 🏡 House Price Predictor – 13 ML Models Compared
-- 💸 Salary Prediction App – Simple Linear Regression
-- 🧮 Polynomial Regression Explorer
-- 📊 Multivariate Linear Regression
-- 👨‍💼 AI Resume Screener – TF-IDF + NLP
-- 🚀 IPO Listing Gain Predictor – TensorFlow
-- 📚 Descriptive & Inferential Statistics Projects
-
----
-
-### 📊 Dashboards & Business Analysis
-- 📺 Amazon Prime Dashboard (Power BI)
-- 🌐 Google Trends Job Market Analysis
-- 🏘️ House Price ML Project (Jupyter Notebook)
-
----
-
-## 🌍 Let's Collaborate
-
-I'm always open to:
-- 🤝 Freelance or remote roles in AI & ML
-- 🌐 Open-source contributions in GenAI/LLMs
-- 💡 Building real-world intelligent apps from scratch
-
-📫 **Connect with me**:  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [Email](mailto:youremail@example.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshayBhujbal1995)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayBhujbal1995&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBhujbal1995&layout=compact)
-
----
-
-![GitHub Snake](https://raw.githubusercontent.com/AkshayBhujbal1995/AkshayBhujbal1995/output/github-contribution-grid-snake.svg)
-
-
-
-<!--
-**venu0807/venu0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venu0807&" alt="venu0807" /></p>

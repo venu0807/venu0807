@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Venu Gopal Reddy</h1>
 <h3 align="center">A passionate Full Stack Developer & Turning Intelligence into Interfaces & Models into Magic</h3>
-[Welcome to my portfolio!](https://portfolio-nu-opal-jkal0xp2gf.vercel.app/)
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=venu0807&label=Profile%20views&color=0e75b6&style=flat" alt="venu0807" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venu0807" alt="venu0807" /></a> </p> -->
 
-- 🔭 I’m currently working on [Movie Recommendation System](https://github.com/venu0807/Recommendation_System)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nu-opal-jkal0xp2gf.vercel.app/](https://portfolio-nu-opal-jkal0xp2gf.vercel.app/)
+- 👨‍💻 Welcome to my portfolio [https://portfolio-nu-opal-jkal0xp2gf.vercel.app/](https://portfolio-nu-opal-jkal0xp2gf.vercel.app/)
+
+- 🔭 I’m currently working on [Movie Recommendation System](https://github.com/venu0807/Recommendation_System)
 
 - 📫 How to reach me **pvgreddy3@gmail.com**
 

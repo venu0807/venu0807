@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venu Gopal Reddy</h1>
 <h3 align="center">A passionate Full Stack Developer & Turning Intelligence into Interfaces & Models into Magic</h3>
-Welcome to my portfolio repository!  
+Welcome to my portfolio!  
 🚀 View the live site here: [Portfolio](https://portfolio-nu-opal-jkal0xp2gf.vercel.app/)
 
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 Here is my portfolio [https://portfolio-nu-opal-jkal0xp2gf.vercel.app/](https://portfolio-nu-opal-jkal0xp2gf.vercel.app/)
 
-- 🔭 I’m currently working on [Movie Recommendation System](https://github.com/venu0807/Recommendation_System)
+- 🔭 I’m currently working on [AI-Driven Audio Triggered Threat Detection & Alert System](https://github.com/venu0807/SafeGuardAI)
 
 - 📫 How to reach me **pvgreddy3@gmail.com**
 

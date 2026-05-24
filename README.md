@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venu0807" alt="venu0807" /></a> </p> -->
 
 
-- 👨‍💻 Here is my portfolio [https://portfolio-nu-opal-jkal0xp2gf.vercel.app/](https://portfolio-nu-opal-jkal0xp2gf.vercel.app/)
+- 👨‍💻 [Here is my portfolio ](https://venureddy.vercel.app/)
 
 - 🔭 I’m currently working on [AI-Driven Audio Triggered Threat Detection & Alert System](https://github.com/venu0807/SafeGuardAI)
 

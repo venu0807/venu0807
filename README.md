@@ -9,7 +9,7 @@
 
 - 👨‍💻 [Here is my portfolio ](https://venureddy.vercel.app/)
 
-- 🔭 I’m currently working on [AI-Driven Audio Triggered Threat Detection & Alert System](https://github.com/venu0807/SafeAI)
+- 🔭 I’m currently working on [Automation System](https://github.com/venu0807/Jarvis)
 
 - 📫 How to reach me **pvgreddy3@gmail.com**
 

@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack AI Engineer & Autonomous Systems Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Autonomous+&+AI+Agents+%26+Local+LLMs;Full+Stack+Developer+(React.js+%2B+Python);MCA+2026+%7C+Open-Source+Enthusiast;Turning+Complex+Intelligence+into+Seamless+Interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+%26+Local+LLMs;Full+Stack+Developer+(React.js+%2B+Python);MCA+2026+%7C+Open-Source+Enthusiast;Turning+Complex+Intelligence+into+Seamless+Interfaces)](https://git.io/typing-svg)
 
 <br/>
 

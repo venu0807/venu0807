@@ -72,8 +72,8 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🦞 **[JARVIS](https://github.com/venu0807/Jarvis)** | Autonomous 4-portal job applier, recruiter cold outreach engine & interview prep hub. | `Next.js 16`, `Python`, `Playwright`, `Ollama`, `PostgreSQL` |
-| 🛡️ **[SafeguardAI](https://github.com/venu0807/SafeguardAI)** | Intelligent AI content moderation and automated threat classification platform. | `Python`, `FastAPI`, `PyTorch`, `Docker` |
-| 🎬 **[Movie Booking Platform](https://github.com/venu0807/Movie_booking)** | High-concurrency seat reservation & ticketing system with transaction locks. | `React`, `Node.js`, `Express`, `PostgreSQL` |
+| 🛡️ **[SafeguardAI](https://github.com/venu0807/SafeAI)** | Intelligent AI content moderation and automated threat classification platform. | `Python`, `FastAPI`, `PyTorch`, `Docker` |
+| 🎬 **[Movie Booking Platform](https://github.com/venu0807/Recommendation_System)** | High-concurrency seat reservation & ticketing system with transaction locks. | `React`, `Node.js`, `Express`, `PostgreSQL` |
 | 🌐 **[Portfolio Website](https://github.com/venu0807/portfolio)** | Modern, responsive developer portfolio showcasing projects and career timeline. | `Next.js`, `Tailwind CSS`, `Framer Motion` |
 
 ---

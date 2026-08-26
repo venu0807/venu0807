@@ -95,9 +95,9 @@
 
 ### 🤝 Let's Connect!
 
-- 💼  [**LinkedIn:**](https://www.linkedin.com/in/venu-gopal-reddy-palugulla-4948b8258/)
-- 🌐 [**Portfolio:** ](https://venureddy.vercel.app/)
-- 🧠 **LeetCode:** [leetcode.com/u/venu08](https://leetcode.com/u/venu08/)
+- 💼  [**LinkedIn:**] (https://www.linkedin.com/in/venu-gopal-reddy-palugulla-4948b8258/)
+- 🌐 [**Portfolio:** ] (https://venureddy.vercel.app/)
+- 🧠  [**LeetCode:**] (https://leetcode.com/u/venu08/)
 - ✉️ **Email:** [pvgreddy3@gmail.com](mailto:pvgreddy3@gmail.com)
 
 <div align="center">

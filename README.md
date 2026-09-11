@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-venureddy.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venureddy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venu%20Gopal%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venu-gopal-reddy-palugulla-4948b8258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venu%20Gopal%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venu0807/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-venu08-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/venu08/)
 [![Email](https://img.shields.io/badge/Email-pvgreddy3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvgreddy3@gmail.com)
 
@@ -95,7 +95,7 @@
 
 ### 🤝 Let's Connect!
 
-- 💼  [**LinkedIn**](https://www.linkedin.com/in/venugopalreddy0807/)
+- 💼  [**LinkedIn**](https://www.linkedin.com/in/venu0807/)
 - 🌐 [**Portfolio** ](https://venureddy.vercel.app/)
 - 🧠  [**LeetCode**](https://leetcode.com/u/venu08/)
 - ✉️  [**Email**](mailto:pvgreddy3@gmail.com)

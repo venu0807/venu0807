@@ -2,15 +2,15 @@
 
 # 💫 Hi there, I'm Venu Gopal Reddy Palugulla 👋
 
-### 🚀 Python Developer & Aspiring Full Stack AI Engineer 
+### 🚀 Python Full Stack Developer & AI Engineer 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+%26+Local+LLMs;Full+Stack+Developer+(React.js+%2B+Python);MCA+2026+%7C+Open-Source+Enthusiast;Turning+Complex+Intelligence+into+Seamless+Interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer+(Django+REST+%2B+React.js);AI+%26+Deep+Learning+Engineer+(CNNs+%2B+TFLite+Edge);500%2B+LeetCode+Problems+Solved+%7C+Top+8%25+Nationally;Building+High-Performance+Scalable+Backend+Systems)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-venureddy.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venureddy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venu%20Gopal%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venu0807/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-venu08-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/venu08/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/venu08/)
 [![Email](https://img.shields.io/badge/Email-pvgreddy3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvgreddy3@gmail.com)
 
 </div>
@@ -19,10 +19,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Master of Computer Applications (MCA), Class of 2026.
-- 🔭 **Current Focus:** Architecting autonomous agent workflows, local AI inference engines (`Ollama`, `vLLM`), and full-stack high-concurrency web applications.
-- 🦞 **Featured Project:** **[JARVIS](https://github.com/venu0807/Jarvis)** — AI-driven 4-portal job automation suite, recruiter cold outreach engine, and real-time interview prep hub running 100% locally on WSL2.
-- ⚡ **Core Philosophy:** *“Build reliable software, automate the repetitive, and deploy AI that solves real-world bottlenecks.”*
+- 🎓 **Education:** Master of Computer Applications (MCA in AI & Machine Learning), Galgotias University (CGPA: 7.46/10) | Bachelor of Computer Science, CCSU (85%).
+- 💼 **Certifications:** Java Full Stack Developer (Wipro Certified, 2025) | Full Stack Python Developer Program (Besant Technologies, 400+ hrs) | NPTEL AI Certified (IIT/AICTE).
+- 🧠 **Competitive Problem Solving:** Solved **500+ LeetCode problems** (Sliding Window, Two Pointers, Dynamic Programming, Hash Tables). Ranked in the **Top 8% of 250,000 national applicants** in the AlgoUniversity Tech Fellowship.
+- ⚡ **Core Focus:** Building high-concurrency RESTful APIs with Django REST Framework, optimizing SQL query execution plans with B-tree indexing and Redis caching, and deploying quantized edge AI models with TensorFlow Lite.
 
 ---
 
@@ -30,38 +30,39 @@
 
 <div align="center">
 
-#### 💻 Languages & Core
+#### 💻 Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 #### 🌐 Frontend & UI
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-#### ⚙️ Backend, AI & Automation
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI-purple?style=flat-square&logo=ollama&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+#### 🤖 AI, Machine Learning & Edge
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite_Edge-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-#### 🗄️ Database & DevOps
+#### 🗄️ Databases, Caching & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux / WSL](https://img.shields.io/badge/Ubuntu_WSL2-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 </div>
 
@@ -71,10 +72,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🦞 **[JARVIS](https://github.com/venu0807/Jarvis)** | Autonomous 4-portal job applier, recruiter cold outreach engine & interview prep hub. | `Next.js 16`, `Python`, `Playwright`, `Ollama`, `PostgreSQL` |
-| 🛡️ **[SafeguardAI](https://github.com/venu0807/SafeAI)** | Intelligent AI content moderation and automated threat classification platform. | `Python`, `FastAPI`, `PyTorch`, `Docker` |
-| 🎬 **[Movie Booking Platform](https://github.com/venu0807/Recommendation_System)** | High-concurrency seat reservation & ticketing system with transaction locks. | `React`, `Node.js`, `Express`, `PostgreSQL` |
-| 🌐 **[Portfolio Website](https://github.com/venu0807/portfolio)** | Modern, responsive developer portfolio showcasing projects and career timeline. | `Next.js`, `Tailwind CSS`, `Framer Motion` |
+| 🎬 **[Movie Recommendation Platform](https://github.com/venu0807/Recommendation_System)** | End-to-end ML-powered recommendation engine serving 10,000+ movie records via content-based filtering (TF-IDF + Cosine Similarity). PostgreSQL schema with B-tree indexing and Redis caching **cuts query latency by 60%**. | `Python`, `Django REST`, `React.js`, `Scikit-learn`, `PostgreSQL`, `Redis`, `Docker` |
+| 🛡️ **[SafeguardAI](https://github.com/venu0807/SafeAI)** | Real-time on-device audio threat detection pipeline using 2D Mel-Spectrogram CNNs (**89% accuracy**). Quantized with TFLite for **sub-100ms edge inference** on Android with automated GPS/SMS emergency alerts. | `Python`, `TensorFlow`, `TFLite`, `Android (Java)`, `Scikit-learn` |
+| 🦞 **[JARVIS 2.0](https://github.com/venu0807/jarvis2.0)** | Reusable automation engine and career intelligence platform. Built with Playwright and BeautifulSoup4 on an event-driven architecture (`job.applied` event bus) with 200+ automated PyTest cases. | `Python`, `Playwright`, `FastAPI`, `SQLite`, `PyTest` |
+| 🌐 **[Portfolio Website](https://github.com/venu0807/portfolio)** | Production developer portfolio showcasing verified projects, technical skills, and interactive UI with 100% responsive performance. | `React 19`, `TypeScript`, `Vite`, `Tailwind CSS`, `Framer Motion` |
 
 ---
 
@@ -95,10 +96,10 @@
 
 ### 🤝 Let's Connect!
 
-- 💼  [**LinkedIn**](https://www.linkedin.com/in/venu0807/)
-- 🌐 [**Portfolio** ](https://venureddy.vercel.app/)
-- 🧠  [**LeetCode**](https://leetcode.com/u/venu08/)
-- ✉️  [**Email**](mailto:pvgreddy3@gmail.com)
+- 💼  [**LinkedIn (venugopalreddy0807)**](https://www.linkedin.com/in/venu0807/)
+- 🌐 [**Portfolio (venureddy.vercel.app)**](https://venureddy.vercel.app/)
+- 🧠  [**LeetCode (venu08 - 500+ Solved)**](https://leetcode.com/u/venu08/)
+- ✉️  [**Email (pvgreddy3@gmail.com)**](mailto:pvgreddy3@gmail.com)
 
 <div align="center">
   <sub>Designed with ❤️ by Venu Gopal Reddy Palugulla</sub>
